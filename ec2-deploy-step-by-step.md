@@ -1,4 +1,4 @@
-# Deploy to Amazon EC2 with CodePipeline — Step by Step
+# Deploy to Amazon EC2 with CodePipeline — Step by Step v 1.0
 
 Follow these steps in order. This is based on the [AWS EC2 deploy tutorial](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-ec2-deploy.html) plus the IAM policies you actually need.
 
@@ -425,3 +425,5 @@ sudo systemctl start amazon-ssm-agent
 - [EC2 action reference and service role policy](https://docs.aws.amazon.com/codepipeline/latest/userguide/action-reference-EC2Deploy.html)
 - [Manage the CodePipeline service role](https://docs.aws.amazon.com/codepipeline/latest/userguide/how-to-custom-role.html)
 - [AmazonSSMManagedInstanceCore](https://docs.aws.amazon.com/aws-managed-policy/latest/reference/AmazonSSMManagedInstanceCore.html)
+
+word change-2
